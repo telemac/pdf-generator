@@ -1,0 +1,5 @@
+node_modules
+*.pdf
+samples/
+templates/
+**/.DS_Store

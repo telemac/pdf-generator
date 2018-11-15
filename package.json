@@ -1,0 +1,29 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "Generate pdf from html templates and json files",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telemac/pdf-generator.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "generate",
+    "pdf",
+    "html",
+    "template"
+  ],
+  "author": "Alexandre HEIM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/telemac/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/telemac/pdf-generator#readme",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
